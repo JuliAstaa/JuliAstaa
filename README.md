@@ -22,7 +22,7 @@ I am a **Backend-focused Software Developer** and an Informatics student at INST
 
 
 ### 🎯 Career Aspirations
-I am actively seeking opportunities as a **Backend Engineer** or **Fullstack Developer**. I am particularly interested in remote or on-site roles in **Switzerland** or **Australia**, contributing to innovative startups or established tech firms.
+I am actively seeking opportunities as a **Backend Engineer** or **Fullstack Developer**. I am particularly interested in remote roles in **Switzerland** or **Australia**, contributing to innovative startups or established tech firms.
 
 ### 📫 Let's Connect
 - 💼 **LinkedIn:** [linkedin.com/in/juliastaa](https://www.linkedin.com/in/juliastaa/)
