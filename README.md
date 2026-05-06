@@ -21,8 +21,8 @@ I am a **Backend-focused Software Developer** and an Informatics student at INST
 *   *Status: Active & Scaling*
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliAstaa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliAstaa&layout=compact&theme=tokyonight)
 
 ### 🎯 Career Aspirations
 I am actively seeking opportunities as a **Backend Engineer** or **Fullstack Developer**. I am particularly interested in remote or on-site roles in **Switzerland** or **Australia**, contributing to innovative startups or established tech firms.
