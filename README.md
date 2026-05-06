@@ -1,27 +1,35 @@
-👋 Hi, I’m Juli Asta - 🚀I'm a junior web developer
- 👀 I’m interested in web delevoper
-## About Me
+# Hi there, I'm Juli Asta 👋
 
-👩‍💻 I am a junior web developer with an unusual background. Initially, I enrolled in multimedia, but ended up being placed in software engineering. In 2020, I entered Vocational High School amidst the pandemic and learned from home. My interest in programming arose while creating a website project about tourist attractions in Indonesia.
-  After training at Politeknik Nasional, I learned PHP through YouTube and W3Schools. Within two months, I managed to create a simple CRUD website. In Grade 3 of Vocational High School, learning focused on PHP, Java, and C++, and I passed the Skills Compensation Test by creating a simple calculator and drugstore application.
-  Although the economy stopped me from pursuing higher education, my dream of becoming a programmer was still alive. I continue to be self-taught at home and focus on React.js since July 2023. Currently, I am also trying Next.js. I am confident that my passion and skills will help me achieve my goal as a software developer.
-## Skills
-- 🌐 HTML, CSS, Javascript, React
-- 🌱 Now I'm learning about nextjs.
-## Social Media
-- Instagram: [@juliasta._](https://www.instagram.com/juliasta._)
-- X: [@astajuliii](https://x.com/astajuliii)
-- Facebook: [Juli Astawa](https://web.facebook.com/i.astawa.3705/)
-- Discord: [Juliasta's Server](https://discord.com/invite/BMSnxQg8)
-- LinkedIn: [Juli Asta](https://www.linkedin.com/in/juliastaa/)
+I am a **Backend-focused Software Developer** and an Informatics student at INSTIKI. I specialize in building robust server-side architectures and managing high-performance systems. With a strong foundation in leadership and a passion for clean code, I am currently preparing for a global career in **Switzerland** or **Australia**.
 
+---
 
+### 🏛️ Leadership & Experience
+*   **Chairperson of INSTIKI Developer Club (2025 – 2026):** Leading the largest developer community on campus, managing cross-functional teams, and coordinating tech-focused events.
+*   **Backend Specialist:** Focused on creating scalable APIs and efficient database structures.
+*   **Project Manager:** Experienced in leading technical teams (Team Syntax) for competitions and internal projects.
 
+### 🛠️ Tech Stack
+*   **Backend:** Go, Python (FastAPI), PHP (Laravel, Livewire)
+*   **Frontend (Current Learning):** TypeScript, React, Next.js (TSX), and Vue.js
+*   **Databases & Tools:** MySQL, PostgreSQL, Docker, Git, and Database Design (WBS)
 
+### 🚀 Featured Project: Zentix
+**Zentix** is a digital event ticketing platform with active users. 
+*   **Backend:** Powered by **FastAPI (Python)** for high performance.
+*   **Key Features:** Automated QR Code generation, secure branding, and real-time validation.
+*   *Status: Active & Scaling*
 
-     
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
 
-<!---
-JuliAstaa/JuliAstaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎯 Career Aspirations
+I am actively seeking opportunities as a **Backend Engineer** or **Fullstack Developer**. I am particularly interested in remote or on-site roles in **Switzerland** or **Australia**, contributing to innovative startups or established tech firms.
+
+### 📫 Let's Connect
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/juliastaa/))
+- 📧 **Email:** juliasta702@gmail.com
+
+---
+*"Building the logic that powers the future."*
